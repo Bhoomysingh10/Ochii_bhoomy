@@ -16,7 +16,8 @@ Icon Integration: Includes the FaLongArrowAltUp icon from react-icons for enhanc
 Tech: React.js, Framer Motion, Tailwind CSS
 Details: Smooth scrolling marquee with infinite text animation for a dynamic feel.
 
-![image](https://github.com/user-attachments/assets/28bda6d3-bab3-4247-8a03-74baf2539dd4)
+![image](https://github.com/user-attachments/assets/c4edb5dd-6bb2-4e81-8cdd-11ebb6dbab08)
+
 
 # 2. About Section
 Tech: React.js, Tailwind CSS
