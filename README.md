@@ -1,8 +1,8 @@
-ochii.design Landing Page
-Overview
-This repository contains the code for the landing page of the ochii.design website. The landing page is built using React.js and styled with Tailwind CSS. It serves as the initial interface for the ochii.design project, showcasing the core layout and design elements.
 
-# Features
+# Overview
+Ochii is a sleek, responsive web application showcasing a refined landing page with modern design elements and interactive features. This repository highlights advanced styling and fluid layout techniques to deliver an engaging and adaptive user experience.
+
+# Landing Page
 
 React Component: Utilizes React.js for building a dynamic and responsive user interface.
 Tailwind CSS: Styled with Tailwind CSS to ensure a modern and visually appealing design.
@@ -10,7 +10,7 @@ Icon Integration: Includes the FaLongArrowAltUp icon from react-icons for enhanc
 
 ![image](https://github.com/user-attachments/assets/311c4632-1a61-447d-91c5-17a25abc95ef)
 
- # New Sections Added: Marquee, About, and Play
+ # New Sections Added
 
 # 1. Marquee Section
 Tech: React.js, Framer Motion, Tailwind CSS
